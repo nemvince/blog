@@ -9,6 +9,8 @@ I'm Vince, and this is my personal little web project, which serves you ZERO Jav
 
 Actually, I hate JavaScript so much that I even wrote this page in Markdown. In fact, the entire site is built using Hono and hono/jsx+marked to render Markdown files, with no JavaScript sent to the client. Enjoy the simplicity!
 
+If you're interested in how this site is built, check out the [source code on GitHub](https://github.com/nemvince/tvk-blogs).
+
 ## What do I do?
 
 I go to school, code stuff, break my homelab, and occasionally write blog posts about my experiences. Feel free to explore my [blog](/blog) for more insights!
