@@ -1,15 +1,11 @@
 ---
-title: Home | tvk.lol
+title: Home
 date: 2024-06-15
 updated: 2024-06-15
 ---
 <h1 style="text-align: center;">Welcome to tvk.lol!</h1>
 
-I'm Vince, and this is my personal little web project, which serves you ZERO JavaScript by default. And no, you can't enable it, it has no client-side JavaScript at all.
-
-Actually, I hate JavaScript so much that I even wrote this page in Markdown. In fact, the entire site is built using Hono and hono/jsx+marked to render Markdown files, with no ~~JavaScript~~ tracking or ads sent to the client. (Come on, tell me you don't like my fancy zoomable image)
-
-I try to make this site as light as possible. The homepage is only <span id="bytes">*calculating...*</span> bytes in size!
+I'm Vince, and this is my personal little web project.
 
 If you're interested in how this site is built, check out the [source code on GitHub](https://github.com/nemvince/tvk-blogs).
 
