@@ -19,8 +19,9 @@ I participate in various programming and sysadmin competitions, here's the ones 
 
 |                                      |          |                     |        |   |   |   |   |   |   |
 |--------------------------------------|----------|---------------------|--------|---|---|---|---|---|---|
-| Szeresd a Pingvint 2023              | 1st     | Linux/sysadmin   | Individual |   |   |   |   |   |   |
-| Szeresd a Pingvint 2024              | 1st     | Linux/sysadmin   | Individual |   |   |   |   |   |   |
+| **Szeresd a Pingvint 2023**              | 1st     | Linux/sysadmin   | Individual |   |   |   |   |   |   |
+| **Szeresd a Pingvint 2024**              | 1st     | Linux/sysadmin   | Individual |   |   |   |   |   |   |
+| **Szeresd a Pingvint 2025**              | 1st     | Linux/sysadmin   | Individual |   |   |   |   |   |   |
 | JuniorSkills 2025 | 1st | System Administration | Individual |   |   |   |   |   |   |
 | Nokia 2025 Hackathon         | 1st | Programming         | Individual |   |   |   |   |   |   |
 | Nokia 2024 Hackathon         | 2nd | Programming         | Individual |   |   |   |   |   |   |
