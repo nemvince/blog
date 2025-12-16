@@ -31,4 +31,8 @@ I participate in various programming and sysadmin competitions, here's the ones 
 | JuniorSkills 2025                | 3rd | Web Development       | Individual |   |   |   |   |   |   |
 | LEGO WRO 2023 Győr                   | 7th      | Robotics            | Team |   |   |   |   |   |   |
 
-As you can see, I'm a bit of a jack-of-all-trades when it comes to this stuff, but I am only a master of Linux/sysadmin competitions so far. I'm always looking to improve and learn more!
+### Experience
+
+- **Freelance React Developer** (2023 - 2024)
+- **Software Developer Intern at [Nokia](https://www.nokia.com/)** (Summer 2024)
+- **Software Developer Intern at [Nokia](https://www.nokia.hu/)** (Summer 2025)
